@@ -1,4 +1,4 @@
-### Investigating and Mitigating Failures in Physics-informed Artificial Neural Networks
+### Investigating and Mitigating Failures in Physics-informed Neural Networks
 
 
 ### Abstract:
