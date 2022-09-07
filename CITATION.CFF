@@ -1,14 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Basir"
+  given-names: "Shamsulhaq"
+  orcid: "https://orcid.org/0000-0002-1095-0881"
+- family-names: "Senocak"
+  given-names: "Inanc"
+  orcid: "https://orcid.org/0000-0003-1967-7583"
 title: "investigating_mitigating_failures_in_pinns"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2022-09-06
 url: "https://github.com/shamsbasir/investigating_mitigating_failures_in_pinns"
