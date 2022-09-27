@@ -6,3 +6,15 @@ In this paper, we demonstrate and investigate several challenges that stand in t
 
 
 ##### Note: All the codes will be published after the peer-review process
+
+
+## Citation
+Please cite us if you find our work useful for your research:
+```
+@article{basir2022investigating,
+  title={Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)},
+  author={Basir, Shamsulhaq},
+  journal={arXiv preprint arXiv:2209.09988},
+  year={2022}
+}
+```
