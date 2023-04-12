@@ -9,6 +9,7 @@ This paper explores the difficulties in solving partial differential equations (
 
 ## Citation
 Please cite us if you find our work useful for your research:
+#### [Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)](https://arxiv.org/abs/2209.09988)
 ```
 @article{basir2022investigating,
   title={Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)},
@@ -18,6 +19,7 @@ Please cite us if you find our work useful for your research:
 }
 ```
 
+[Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusion](https://doi.org/10.1016/j.jcp.2022.111301)
 ```
 @article{PECANN_2022,
 title = {Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusion},
@@ -30,6 +32,8 @@ url = {https://www.sciencedirect.com/science/article/pii/S0021999122003631},
 author = {Shamsulhaq Basir and Inanc Senocak}
 }
 ```
+
+[Critical Investigation of Failure Modes in Physics-informed Neural Networks]([https://doi.org/10.1016/j.jcp.2022.111301](https://doi.org/10.2514/6.2022-2353))
 ```
 @inbook{doi:10.2514/6.2022-2353,
 author = {Shamsulhaq Basir and Inanc Senocak},
@@ -44,7 +48,8 @@ eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2022-2353},
 ```
 
 ##### Note: I am thinking of making a video explaining the codes for those who are new to the field.
-####### The codes are in Jupyter notebook and self-containing. You can run them on google colab or on your own machine if you have Pytorch installed. I would like to mention that inputs to the models are normalized as follows:
+##### The codes are in Jupyter notebook and self-containing. You can run them on google colab or on your own machine if you have Pytorch installed. I would like to mention that inputs to the models are normalized as follows:
+
 For example, you have a square domain with bottom left corner (-1,-1) and top right corner = (1,1) :
 ``` Generating collocation points from that domain will give you a mean of (0,0) and std (0.5773, 0.5773) that  you can use to normalize your inputs
 x_max = 1
