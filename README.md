@@ -62,3 +62,12 @@ domain   = np.array([[-1,-1.0],[1.,1.]])
 kwargs   = {"mean":torch.tensor([[0.0, 0.0]]), "stdev":torch.tensor([[0.5773, 0.5773]])}  
 
 ```
+
+
+```
+### Funding Acknowledgment
+This material is based upon work supported by the National Science Foundation under Grant No. 1953204 and in part in part by the University of Pittsburgh Center for Research Computing through the resources provided.\
+![plot](./images/NSFlogo.png) ![plot](./images/pittlogo.png)
+
+### Questions and feedback?
+For questions or feedback feel free to reach us at [Shams Basir](mailto:shamsbasir@gmail.com)
