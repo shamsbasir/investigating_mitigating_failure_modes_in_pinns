@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Basir"
+  given-names: "Shamsulhaq"
+  orcid: "https://orcid.org/0000-0002-1095-0881"
+title: "Investigating and Mitigating Failure Modes in Physics-informed Neural Networks(PINNs)"
+version: 1.0.0
+date-released: 2022-09-06
+url: "https://github.com/shamsbasir/investigating_mitigating_failure_modes_in_pinns"
