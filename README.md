@@ -9,7 +9,7 @@ This paper explores the difficulties in solving partial differential equations (
 
 ## Citation
 Please cite us if you find our work useful for your research:
-#### [Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)](https://arxiv.org/abs/2209.09988)
+##### 1) [Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)](https://arxiv.org/abs/2209.09988)
 ```
 @article{basir2022investigating,
   title={Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)},
@@ -19,7 +19,7 @@ Please cite us if you find our work useful for your research:
 }
 ```
 
-[Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusion](https://doi.org/10.1016/j.jcp.2022.111301)
+##### 2) [Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusion](https://doi.org/10.1016/j.jcp.2022.111301)
 ```
 @article{PECANN_2022,
 title = {Physics and Equality Constrained Artificial Neural Networks: Application to Forward and Inverse Problems with Multi-fidelity Data Fusion},
@@ -33,7 +33,7 @@ author = {Shamsulhaq Basir and Inanc Senocak}
 }
 ```
 
-[Critical Investigation of Failure Modes in Physics-informed Neural Networks]([https://doi.org/10.1016/j.jcp.2022.111301](https://doi.org/10.2514/6.2022-2353))
+##### 3) [Critical Investigation of Failure Modes in Physics-informed Neural Networks](https://doi.org/10.2514/6.2022-2353)
 ```
 @inbook{doi:10.2514/6.2022-2353,
 author = {Shamsulhaq Basir and Inanc Senocak},
