@@ -20,12 +20,14 @@ Please cite us if you find our work useful for your research:
 ##### Note: I am thinking of making a video explaining the codes for those who are new to the field.
 ##### The codes are in Jupyter notebook and self-containing. You can run them on google colab or on your own machine if you have Pytorch installed. I would like to mention that inputs to the models are normalized as below:
 For example, you have a square domain with bottom left corner (-1,-1) and top right corner = (1,1) :
-``` domain   = np.array([[-1,-1.0],[1.,1.]]). 
-Generating collocation points from that domain will give you a mean of (0,0) and std (0.5773, 0.5773) that  you can use to normalize your inputs
+``` Generating collocation points from that domain will give you a mean of (0,0) and std (0.5773, 0.5773) that  you can use to normalize your inputs
 x_max = 1
 x_min = -1
 x_ = torch.rand(100000) * (x_max - x_min) + x_min
 x_mean = x_.mean()
 x_std  = x_.std()
+----
+domain   = np.array([[-1,-1.0],[1.,1.]])
+kwargs   = {"mean":torch.tensor([[0.0, 0.0]]), "stdev":torch.tensor([[0.5773, 0.5773]])}  
 
 ```
