@@ -49,8 +49,6 @@ URL = {https://arc.aiaa.org/doi/abs/10.2514/6.2022-2353},
 eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2022-2353},
 }
 ```
-
-##### Note: I am thinking of making a video explaining the codes for those who are new to the field.
 ##### The codes are in Jupyter notebook and self-containing. You can run them on google colab or on your own machine if you have Pytorch installed. I would like to mention that inputs to the models are normalized as follows:
 
 For example, you have a square domain with bottom left corner (-1,-1) and top right corner = (1,1) :
@@ -63,7 +61,6 @@ x_std  = x_.std()
 ----
 domain   = np.array([[-1,-1.0],[1.,1.]])
 kwargs   = {"mean":torch.tensor([[0.0, 0.0]]), "stdev":torch.tensor([[0.5773, 0.5773]])}  
-
 ```
 
 ### Funding Acknowledgment
