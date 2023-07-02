@@ -6,13 +6,19 @@ This paper explores the difficulties in solving partial differential equations (
 
 ## Citation
 Please cite us if you find our work useful for your research:
-##### 1) [Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)](https://arxiv.org/abs/2209.09988) (accepted for publication)
+##### 1) [Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)](10.4208/cicp.OA-2022-0239)
 ```
-@article{basir2022investigating,
-  title={Investigating and Mitigating Failure Modes in Physics-informed Neural Networks (PINNs)},
-  author={Basir, Shamsulhaq},
-  journal={arXiv preprint arXiv:2209.09988},
-  year={2022}
+@Article{CiCP-33-1240,
+author = {Basir , Shamsulhaq},
+title = {Investigating and Mitigating Failure Modes in Physics-Informed Neural Networks (PINNs)},
+journal = {Communications in Computational Physics},
+year = {2023},
+volume = {33},
+number = {5},
+pages = {1240--1269},
+issn = {1991-7120},
+doi = {https://doi.org/10.4208/cicp.OA-2022-0239},
+url = {http://global-sci.org/intro/article_detail/cicp/21761.html}
 }
 ```
 
